@@ -25,6 +25,7 @@ body{
 
     /* DropShadow */
     box-shadow: 0 0 10px 10px rgba(0, 0, 0, 0.03);}
+.btnL:hover{background-color: #ddd;}
 .RUDE-title{
 display: inline-flex;
 flex-direction: column;
@@ -100,6 +101,7 @@ font-size: 20px;
 font-style: normal;
 font-weight: 500;
 line-height: normal;}
+.btnS:hover{background: #ddd;}
 .btnS_foucs{border: none;
 display: flex;
 width: 179px;
@@ -119,6 +121,7 @@ font-size: 20px;
 font-style: normal;
 font-weight: 700;
 line-height: normal;}
+.btnS_foucs:hover {background: #9b6f7f;}
 .dtn_set{display: inline-flex;
 align-items: center;
 gap: 26px;}
