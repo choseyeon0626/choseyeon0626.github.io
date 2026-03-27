@@ -15,7 +15,7 @@ if(btnS_foucs){btnS_foucs.addEventListener('click', function() {
 
 const btn_RUDE = document.querySelector('.btn_RUDE');
 if(btn_RUDE){btn_RUDE.addEventListener('click', function() {
-    window.open('https://youtu.be/PArwInNjZ4A?si=tvnfgaEAbaOh5JhH')
+    window.open('https://youtu.be/F7sGJVUrkjQ?si=yzK8GndVgw55HpdF')
 });}
 
 const characterList = [
