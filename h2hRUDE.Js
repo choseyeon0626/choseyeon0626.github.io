@@ -5,7 +5,7 @@ if(btnL){btnL.addEventListener('click', function() {
 
 const btnS = document.querySelector('.btnS');
 if(btnS){btnS.addEventListener('click', function() {
-    window.location.href = 'home.html';
+    window.location.href = 'index.html';
 });}
 
 const btnS_foucs = document.querySelector('.btnS_foucs');
